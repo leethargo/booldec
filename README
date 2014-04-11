@@ -1,0 +1,4 @@
+booldec
+=======
+
+Python solver for boolean decision problems, based on PuLP
